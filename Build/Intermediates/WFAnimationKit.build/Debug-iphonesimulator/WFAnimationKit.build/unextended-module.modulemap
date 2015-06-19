@@ -1,0 +1,10 @@
+framework module WFAnimationKit {
+  umbrella header "WFAnimationKit.h"
+
+  export *
+  module * { export * }
+}
+
+module WFAnimationKit.__Swift {
+    exclude header "WFAnimationKit-Swift.h"
+}

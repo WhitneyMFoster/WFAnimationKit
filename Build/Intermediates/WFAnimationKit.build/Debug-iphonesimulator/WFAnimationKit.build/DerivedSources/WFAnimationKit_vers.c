@@ -1,0 +1,1 @@
+ const unsigned char WFAnimationKitVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:WFAnimationKit  PROJECT:WFAnimationKit-1" "\n"; const double WFAnimationKitVersionNumber __attribute__ ((used)) = (double)1.;

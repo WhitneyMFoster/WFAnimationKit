@@ -11,6 +11,7 @@
 		BA5AF1401B1E803100E763AE /* WFAnimationKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA5AF1341B1E803100E763AE /* WFAnimationKit.framework */; };
 		BA5AF1471B1E803100E763AE /* WFAnimationKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5AF1461B1E803100E763AE /* WFAnimationKitTests.swift */; };
 		BA5AF1511B1E808300E763AE /* WFAnimationObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5AF1501B1E808300E763AE /* WFAnimationObject.swift */; };
+		BA9359AB1B33A59A0045B945 /* ImageScroller.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9359AA1B33A59A0045B945 /* ImageScroller.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,6 +32,7 @@
 		BA5AF1451B1E803100E763AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BA5AF1461B1E803100E763AE /* WFAnimationKitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WFAnimationKitTests.swift; sourceTree = "<group>"; };
 		BA5AF1501B1E808300E763AE /* WFAnimationObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WFAnimationObject.swift; sourceTree = "<group>"; };
+		BA9359AA1B33A59A0045B945 /* ImageScroller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageScroller.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				BA5AF1391B1E803100E763AE /* WFAnimationKit.h */,
 				BA5AF1371B1E803100E763AE /* Supporting Files */,
 				BA5AF1501B1E808300E763AE /* WFAnimationObject.swift */,
+				BA9359AA1B33A59A0045B945 /* ImageScroller.swift */,
 			);
 			path = WFAnimationKit;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA5AF1511B1E808300E763AE /* WFAnimationObject.swift in Sources */,
+				BA9359AB1B33A59A0045B945 /* ImageScroller.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -406,6 +410,7 @@
 				BA5AF14C1B1E803100E763AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA5AF14D1B1E803100E763AE /* Build configuration list for PBXNativeTarget "WFAnimationKitTests" */ = {
 			isa = XCConfigurationList;
@@ -414,6 +419,7 @@
 				BA5AF14F1B1E803100E763AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

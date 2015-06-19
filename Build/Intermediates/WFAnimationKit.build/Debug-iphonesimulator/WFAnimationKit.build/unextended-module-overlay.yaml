@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/whitneyfoster/Dev/WFAnimationKit/Build/Products/Debug-iphonesimulator/WFAnimationKit.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/whitneyfoster/Dev/WFAnimationKit/Build/Intermediates/WFAnimationKit.build/Debug-iphonesimulator/WFAnimationKit.build/unextended-module.modulemap',
+    }]
+  }]
+}

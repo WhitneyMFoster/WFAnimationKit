@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.49.6 clang-602.0.49)"
+options: "ac823c4cefe11a501efcfb28c35024ec"
+inputs: 
+- "/Users/whitneyfoster/Dev/WFAnimationKit/WFAnimationKitTests/WFAnimationKitTests.swift"
